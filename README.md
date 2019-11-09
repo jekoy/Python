@@ -1,3 +1,2 @@
 # python
-some interesting  python codes
-
+small programs about python
